@@ -1,0 +1,4 @@
+﻿git status (revisar nuevas modificaciones)
+git add . (agregar todos los archivos nuevos)
+git commit -m “descripcion commit”
+git push (subir los cambios)
